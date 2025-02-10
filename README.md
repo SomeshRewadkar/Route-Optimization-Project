@@ -59,5 +59,5 @@ This project is licensed under the MIT License.
 
 ### Author
 
-**[Somesh Rewadkar]** - Connect on [LinkedIn](https://www.linkedin.com/in/somesh-rewadkar-61262a154/)
+**Somesh Rewadkar** - Connect on [LinkedIn](https://www.linkedin.com/in/somesh-rewadkar-61262a154/)
 
